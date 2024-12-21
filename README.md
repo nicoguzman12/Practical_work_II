@@ -10,3 +10,4 @@ This project is a personal website to show my skills in HTML and CSS
 - Added Contact page.
 - Added Degree page.
 - Added FCE page.
+- Added net page.
