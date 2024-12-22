@@ -13,7 +13,7 @@ This project is a personal website to show my skills in HTML and CSS
 - Added net page.
 - Added the topic page.
 
-  ##Design Detailed Document (DDD)
+## Design Detailed Document (DDD)
   
 1. Description: 
 This work is a compilation of knowledge acquired throughout the semester on HTML 
